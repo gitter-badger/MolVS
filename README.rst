@@ -1,6 +1,10 @@
 MolVS: Molecule Validation and Standardization
 ==============================================
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/mcs07/MolVS
+   :target: https://gitter.im/mcs07/MolVS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 .. image:: http://img.shields.io/pypi/v/MolVS.svg?style=flat
     :target: https://pypi.python.org/pypi/MolVS
 
